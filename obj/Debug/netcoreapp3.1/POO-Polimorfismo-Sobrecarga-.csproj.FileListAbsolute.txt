@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\bin\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\bin\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\bin\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\bin\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\bin\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\bin\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\obj\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\obj\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\obj\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\obj\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\obj\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\obj\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Polimorfismo-Sobrecarga-\obj\Debug\netcoreapp3.1\POO-Polimorfismo-Sobrecarga-.genruntimeconfig.cache
